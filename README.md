@@ -1,4 +1,4 @@
-# ShinePrinters Multi-threaded Print Job System
+# ShinePrinters : Multi-threaded Print Job System
 
 ## Project Overview
 This project is a multi-threaded solution for **ShinePrinters**, a printing shop that allows customers to create and manage print jobs using multiple computers and printers over a shared network. The solution utilizes the **Producer-Consumer** model to manage the print job queue, ensuring a robust and synchronized system for handling concurrent job requests and processing them efficiently.
